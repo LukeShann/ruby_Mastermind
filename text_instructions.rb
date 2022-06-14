@@ -22,7 +22,7 @@ module TextInstructions
 
       #{code_colors('1')}#{code_colors('3')}#{code_colors('4')}#{code_colors('1')}
 
-      As you can see, there can be #{formatting('red', 'more then one')} of the same number/color.
+      As you can see, there can be #{formatting('red', 'more than one')} of the same number/color.
       In order to win, the code breaker needs to guess the 'master code' in 12 or less turns.
 
 
